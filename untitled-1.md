@@ -223,21 +223,3 @@ In this we learned about the following methods to sort a dictionary by values in
 * Using **itemgetter\(\)** with **sorted\(\)** Method.
 * Using **Counter** subclass.
 
-I hope after reading this article you can sort dictionaries by their values with ease. Please subscribe and stay tuned for more interesting articles in the future.
-
-## Where to Go From Here?
-
-Enough theory, let’s get some practice!
-
-To become successful in coding, you need to get out there and solve real problems for real people. That’s how you can become a six-figure earner easily. And that’s how you polish the skills you really need in practice. After all, what’s the use of learning theory that nobody ever needs?
-
-**Practice projects is how you sharpen your saw in coding!**
-
-Do you want to become a code master by focusing on practical code projects that actually earn you money and solve problems for people?
-
-Then become a Python freelance developer! It’s the best way of approaching the task of improving your Python skills—even if you are a complete beginner.
-
-Join my free webinar [“How to Build Your High-Income Skill Python”](https://blog.finxter.com/webinar-freelancer/) and watch how I grew my coding business online and how you can, too—from the comfort of your own home.
-
-[Join the free webinar now!](https://blog.finxter.com/webinar-freelancer/)
-
