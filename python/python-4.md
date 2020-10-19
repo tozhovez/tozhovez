@@ -282,17 +282,3 @@ There are five important regular expression methods which you should master:
 
 These seven methods are 80% of what you need to know to get started with Python’s regular expression functionality.
 
-## Where to Go From Here?
-
-You’ve learned everything you need to know about the asterisk quantifier `*` in this regex tutorial.
-
-_**Summary**: When applied to regular expression **A**, Python’s **A\*** quantifier matches zero or more occurrences of **A**. The \* symbol is called asterisk operator_ and it applies to the preceding regular expression. For example, the regular expression **‘yes\*’** matches strings **‘ye’**, **‘yes’**, and **‘yesssssss’** but not the empty string **”**.
-
-**Want to earn money while you learn Python?** Average Python programmers earn more than $50 per hour. You can certainly become average, can’t you?
-
-Join the free webinar that shows you how to become a thriving coding business owner online!
-
-[\[Webinar\] Become a Six-Figure Freelance Developer with Python](https://blog.finxter.com/webinar-freelancer/)
-
-Join us. It’s fun! 🙂
-
