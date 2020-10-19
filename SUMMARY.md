@@ -10,7 +10,5 @@
 
 ---
 
-* [2. Использование интерпретатора Python](untitled-2/README.md)
-  * [Untitled](untitled-2/untitled/README.md)
-    * [Untitled](untitled-2/untitled/untitled.md)
+* [2. Использование интерпретатора Python](untitled-2.md)
 
