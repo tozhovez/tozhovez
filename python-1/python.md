@@ -305,7 +305,5 @@ plt.show()
 
 In this article, we compared several methods and found the best method in terms of the least time taken to compute all primes &lt; n. The clear cut winner in our case was Method 3 as depicted in the output as well as in the graphs. However, this is just a comparison as of now and if we come across any changes or better methods in terms of performance shall be updated. Also, note that the comparisons are purely based on the time taken to compute each method, however, the memory utilization check might give you different results. Please feel free to check that as a practice for yourself. If you want to learn, how to plot graphs in Python, we have a tutorial for you [here](https://blog.finxter.com/matplotlib-legend/).
 
-I hope you enjoyed the article, please [subscribe](https://blog.finxter.com/subscribe/) and [stay tuned](https://blog.finxter.com/) for more interesting articles and contents like this.
-
 **Reference:** [https://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n](https://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n)
 
