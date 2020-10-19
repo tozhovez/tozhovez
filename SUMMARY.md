@@ -4,9 +4,9 @@
 * [How To Check If A Variable Is An Integer Or Not?](python.md)
 * [How To Sort A Dictionary By Value in Python?](python-1.md)
 
-## Учебник по Python
+## Учебник по Python <a id="python-ru"></a>
 
-* [Учебник по Python](uchebnik-po-python/untitled-2.md)
+* [Учебник по Python](python-ru/python-ru.md)
 
 ---
 
