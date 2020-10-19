@@ -2,7 +2,7 @@
 
 * [Powerful Python One-Liners - Python Wiki](README.md)
 * [How To Check If A Variable Is An Integer Or Not?](how-to-check-if-a-variable-is-an-integer-or-not.md)
-* [How To Sort A Dictionary By Value in Python?](untitled-1.md)
+* [How To Sort A Dictionary By Value in Python?](how-to-sort-a-dictionary-by-value-in-python.md)
 
 ## Учебник по Python
 
