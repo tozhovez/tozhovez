@@ -6,7 +6,7 @@
 
 ## Учебник по Python <a id="python_ru"></a>
 
-* [Учебник по Python](python_ru/po-python3.9.md)
+* [Учебник по Python](python_ru/python_ru.md)
 
 ---
 
