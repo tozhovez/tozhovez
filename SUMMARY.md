@@ -6,7 +6,7 @@
 
 ## Учебник по Python
 
-* [Учебник по Python](uchebnik-po-python/untitled-2.md)
+* [Учебник по Python](uchebnik-po-python/uchebnik-po-python3.9.md)
 
 ---
 
