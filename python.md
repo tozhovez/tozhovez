@@ -9,7 +9,7 @@
 ```text
 def checInt(val):
   #Some function to check if val is an Integer
-  
+
   #if YES:
   return True
 
@@ -47,7 +47,7 @@ def checInt(val):
   # Method 4
   if (val % 1 == 0):
     print ("Method 4 Successful!")
-  
+
 a = 25.0
 checInt(a)
 ```
@@ -132,7 +132,7 @@ False
 ```text
 class Test(int): pass
 x = Test(0)
-print(issubclass(type(x), int)) 
+print(issubclass(type(x), int))
 ```
 
 **Output:**
@@ -291,6 +291,4 @@ The key points that we learned in this article were:
 * Using the round\(\) function.
 * Using `try` and `except` blocks to solve our problem.
 * Using the `isdigit()` method.
-
------------------------------------------------------------------------------------------------------
 

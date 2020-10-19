@@ -14,7 +14,7 @@ This page is devoted to short programs that can perform powerful operations call
 
 ## Overview: 10 one-liners that fit into a tweet <a id="Overview:_10_one-liners_that_fit_into_a_tweet"></a>
 
-I visited this page oftentimes and I loved studying the one-liners presented above. Thanks for creating this awesome resource, JAM, and RJW! 
+I visited this page oftentimes and I loved studying the one-liners presented above. Thanks for creating this awesome resource, JAM, and RJW!
 
 Because I learned a lot from studying the one-liners, I thought why not revive the page \(after almost ten years since the last change happened\)?
 
@@ -67,7 +67,7 @@ In this one-liner, you’re looking for element 'Alice' in the list lst = \[1, 2
    6 
    7 
    8 print(indices)
-   9 
+   9
 ```
 
 ## echo unicode character: <a id="echo_unicode_character:"></a>
