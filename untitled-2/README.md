@@ -73,5 +73,3 @@ Be careful not to fall off!
 # -*- coding: cp1252 -*-
 ```
 
-Сноски
-
