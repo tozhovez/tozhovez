@@ -17,3 +17,7 @@
     * [Untitled](python-ru/python-ru/python-ru-1/untitled/README.md)
       * [Untitled](python-ru/python-ru/python-ru-1/untitled/untitled.md)
 
+## python-ru-other
+
+* [Untitled](python-ru-other/untitled.md)
+
