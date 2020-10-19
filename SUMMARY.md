@@ -14,7 +14,7 @@
 
 * [Учебник по Python](python-ru/python-ru/README.md)
   * [2. Использование интерпретатора Python](python-ru/python-ru/python-ru-1/README.md)
-    * [Untitled](python-ru/python-ru/python-ru-1/untitled/README.md)
+    * [Что такое Питонский способ введения зависимостей? - python](python-ru/python-ru/python-ru-1/untitled/README.md)
       * [Untitled](python-ru/python-ru/python-ru-1/untitled/untitled.md)
 
 ## python-ru-other
