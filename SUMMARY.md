@@ -13,12 +13,11 @@
 ## Учебник по Python <a id="python-ru"></a>
 
 * [Учебник по Python](python-ru/python-ru/README.md)
-  * [2. Использование интерпретатора Python](python-ru/python-ru/python-ru-1/README.md)
-    * [Что такое Питонский способ введения зависимостей? - python](python-ru/python-ru/python-ru-1/untitled/README.md)
-      * [Untitled](python-ru/python-ru/python-ru-1/untitled/untitled.md)
+  * [2. Использование интерпретатора Python](python-ru/python-ru/python-ru-1.md)
 
 ## python-ru-other
 
+* [Что такое Питонский способ введения зависимостей? - python](python-ru-other/untitled-2.md)
 * [Что такое питоновский способ инъекции зависимостей? Ru Python](python-ru-other/untitled.md)
 * [Untitled](python-ru-other/untitled-1.md)
 
