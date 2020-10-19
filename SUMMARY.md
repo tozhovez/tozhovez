@@ -19,5 +19,5 @@
 
 ## python-ru-other
 
-* [Untitled](python-ru-other/untitled.md)
+* [Что такое питоновский способ инъекции зависимостей? Ru Python](python-ru-other/untitled.md)
 
