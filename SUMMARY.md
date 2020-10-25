@@ -29,3 +29,7 @@
 * [Python Language - Метаклассы \| python Tutorial](untitled.md)
 * [SO Documentation](https://sodocumentation.net/ru/home)
 
+## Bookmarks
+
+* [Untitled](bookmarks/untitled.md)
+
