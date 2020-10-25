@@ -35,3 +35,7 @@
   * [SO Documentation](https://sodocumentation.net/ru/home)
   * [Untitled](bookmarks/bookmarks/untitled.md)
 
+---
+
+* [Sanic](https://sanic.readthedocs.io/en/latest/index.html)
+
