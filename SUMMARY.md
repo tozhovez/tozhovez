@@ -26,5 +26,5 @@
 * [Python Language - os.path \| python Tutorial](python-ru-1.md)
 * [Python Language - py.test \| python Tutorial](untitled-2.md)
 * [Как работать с типизацией в Python](python-ru-2.md)
-* [Untitled](untitled.md)
+* [Python Language - Метаклассы \| python Tutorial](untitled.md)
 
