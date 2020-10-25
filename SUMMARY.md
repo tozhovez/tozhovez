@@ -30,6 +30,6 @@
 
 ## Bookmarks
 
-* [SO Documentation](https://sodocumentation.net/ru/home)
-* [Bookmarks](bookmarks/untitled.md)
+* [Bookmarks](bookmarks/bookmarks/README.md)
+  * [SO Documentation](https://sodocumentation.net/ru/home)
 
