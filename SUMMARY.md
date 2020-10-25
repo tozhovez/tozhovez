@@ -36,3 +36,7 @@
   * [SO Documentation](https://sodocumentation.net/ru/home)
   * [Untitled](bookmarks/bookmarks/untitled.md)
 
+---
+
+* [PEP 492 -- Coroutines with async and await syntax](https://www.python.org/dev/peps/pep-0492/)
+
