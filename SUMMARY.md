@@ -27,4 +27,5 @@
 * [Python Language - py.test \| python Tutorial](untitled-2.md)
 * [Как работать с типизацией в Python](python-ru-2.md)
 * [Python Language - Метаклассы \| python Tutorial](untitled.md)
+* [SO Documentation](https://sodocumentation.net/ru/home)
 
