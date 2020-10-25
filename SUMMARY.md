@@ -17,13 +17,13 @@
 
 ## python-ru-other
 
-* [Что такое Питонский способ введения зависимостей? - python](python-ru-other/untitled-2.md)
-* [Что такое питоновский способ инъекции зависимостей? Ru Python](python-ru-other/untitled.md)
-* [Codimension Python IDE - Python Code Visualization](python-ru-other/untitled-1.md)
+* [Что такое Питонский способ введения зависимостей? - python](python-ru-other/python-ru.md)
+* [Что такое питоновский способ инъекции зависимостей? Ru Python](python-ru-other/python-ru-1.md)
+* [Codimension Python IDE - Python Code Visualization](python-ru-other/python-ru-2.md)
 
 ---
 
-* [Python Language - os.path \| python Tutorial](untitled-1.md)
+* [Python Language - os.path \| python Tutorial](python-ru-1.md)
 * [Python Language - py.test \| python Tutorial](untitled-2.md)
 * [Как работать с типизацией в Python](untitled.md)
 
