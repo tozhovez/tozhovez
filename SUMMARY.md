@@ -24,5 +24,6 @@
 ---
 
 * [Python Language - os.path \| python Tutorial](untitled-1.md)
+* [Python Language - py.test \| python Tutorial](untitled-2.md)
 * [Как работать с типизацией в Python](untitled.md)
 
