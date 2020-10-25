@@ -23,6 +23,6 @@
 
 ---
 
-* [Untitled](untitled-1.md)
+* [Python Language - os.path \| python Tutorial](untitled-1.md)
 * [Как работать с типизацией в Python](untitled.md)
 
