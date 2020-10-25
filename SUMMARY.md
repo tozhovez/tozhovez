@@ -31,7 +31,6 @@
 ## Bookmarks
 
 * [Bookmarks](bookmarks/bookmarks/README.md)
-  * [Untitled](bookmarks/bookmarks/untitled.md)
   * [SO Documentation](https://sodocumentation.net/ru/home)
 
 ---
