@@ -21,3 +21,7 @@
 * [Что такое питоновский способ инъекции зависимостей? Ru Python](python-ru-other/untitled.md)
 * [Codimension Python IDE - Python Code Visualization](python-ru-other/untitled-1.md)
 
+---
+
+* [Как работать с типизацией в Python](untitled.md)
+
