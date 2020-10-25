@@ -19,5 +19,5 @@
 
 * [Что такое Питонский способ введения зависимостей? - python](python-ru-other/untitled-2.md)
 * [Что такое питоновский способ инъекции зависимостей? Ru Python](python-ru-other/untitled.md)
-* [Untitled](python-ru-other/untitled-1.md)
+* [Codimension Python IDE - Python Code Visualization](python-ru-other/untitled-1.md)
 
