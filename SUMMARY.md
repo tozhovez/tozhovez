@@ -31,9 +31,6 @@
 ## Bookmarks
 
 * [Bookmarks](bookmarks/bookmarks/README.md)
+  * [asyncpg](https://magicstack.github.io/asyncpg/current/index.html)
   * [SO Documentation](https://sodocumentation.net/ru/home)
-
----
-
-* [asyncpg](https://magicstack.github.io/asyncpg/current/index.html)
 
