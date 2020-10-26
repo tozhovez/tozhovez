@@ -31,14 +31,11 @@
 ## Bookmarks
 
 * [Bookmarks](bookmarks/bookmarks/README.md)
+  * [jinja2](https://lectureswww.readthedocs.io/6.www.sync/2.codding/3.templates/jinja2.html)
   * [Demos aiohttp](http://demos.aiohttp.org/en/latest/index.html)
   * [Sanic](https://sanic.readthedocs.io/en/latest/index.html)
   * [PEP 492 -- Coroutines with async and await syntax](https://www.python.org/dev/peps/pep-0492/)
   * [asyncpg](https://magicstack.github.io/asyncpg/current/index.html)
   * [SO Documentation](https://sodocumentation.net/ru/home)
   * [Untitled](bookmarks/bookmarks/untitled.md)
-
----
-
-* [jinja2](https://lectureswww.readthedocs.io/6.www.sync/2.codding/3.templates/jinja2.html)
 
