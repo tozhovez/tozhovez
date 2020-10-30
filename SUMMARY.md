@@ -13,7 +13,8 @@
 ## Учебник по Python <a id="python-ru"></a>
 
 * [Учебник по Python](python-ru/python-ru/README.md)
-  * [2. Использование интерпретатора Python](python-ru/python-ru/python-ru-1.md)
+  * [Untitled](python-ru/python-ru/untitled-1.md)
+  * [2. Использование интерпретатора Python](python-ru/python-ru/untitled.md)
 
 ## python-ru-other
 
