@@ -39,3 +39,7 @@
   * [asyncpg](https://magicstack.github.io/asyncpg/current/index.html)
   * [SO Documentation](https://sodocumentation.net/ru/home)
 
+---
+
+* [Arithmetic String](python-1.md)
+
